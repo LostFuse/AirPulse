@@ -27,7 +27,7 @@ AirPulse is a Zephyr-based application that provides a simple way to measure the
 1. Build the application for your target board:
    ```bash
    west build -b nrf52840dk_nrf52840
-
+   ```
 
 
 ## Flashing for various boards
